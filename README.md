@@ -1,6 +1,8 @@
-dockpanelsuite
-==============
+dockpanelsuite-mono
+===================
 
-DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms
+Upstream closes mono bugs, because they don't want to spend time on that direction.
+So, this repository is focused on issues with mono/linux.
 
-For all the details, check out [http://dockpanelsuite.com](http://dockpanelsuite.com).
+DockPanel Suite - docking library for System.Windows.Forms
+For all the details, check out [http://dockpanelsuite.com](http://dockpanelsuite.com)
